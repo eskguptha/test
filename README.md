@@ -1,3 +1,7 @@
 # test
-test data
+Connect Database
+Random data preperation
+Insert records into mysql
+Cache buidling
+
 
